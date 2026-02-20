@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+langserve
+fastapi
+uvicorn
+gradio
+chromadb
+pymupdf
+python-docx
+tiktoken
+requests
+python-dotenv
+sentence-transformers
